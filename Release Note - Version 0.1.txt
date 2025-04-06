@@ -1,0 +1,51 @@
+# Dashify Release Note – Version 0.1
+
+**Release Date: April 06, 2025**
+
+## Data Visualization Made Intuitive and Powerful
+
+Welcome to Dashify 0.1! Your comprehensive solution for interactive data visualization and analysis.
+
+### What makes DashInsight special?
+
+Transform complex data into actionable insights in minutes! Powerful visualization tools with an intuitive interface designed for both beginners and data professionals.
+
+## What's New?
+
+### Product: Interactive Dashboard Platform
+
+- **Customizable Dashboard Interface**
+  - Users can now create personalized dashboards with drag-and-drop widgets
+  - Responsive design works seamlessly across desktop and mobile devices
+  - Dark and light theme options for optimal viewing in any environment
+
+- **Data Visualization Components**
+  - Interactive charts including line, bar, pie, and area visualizations
+  - Real-time data updates with smooth animations
+  - Interactive tooltips and drill-down capabilities
+  - Configurable time range filters for temporal data
+
+- **User Authentication**
+  - Secure login and registration system
+  - Password recovery functionality
+  - User profile management
+  - Dashboard settings persistence
+
+## Known Limitations
+
+- Widget customization options are currently limited to size and position. More styling options coming in future releases.
+- Data import is limited to CSV and JSON formats.
+- Maximum of 10 widgets per dashboard in this initial release.
+
+## What's Coming Next?
+
+- Data export functionality for charts and tables
+- Advanced filtering and data manipulation tools
+- Team collaboration features
+- Integration with additional data sources
+
+## Got feedback?
+
+Let us know at feedback@dashify.com.
+
+**Thanks for using DashInsight! Transforming data into insights with every interaction!**
